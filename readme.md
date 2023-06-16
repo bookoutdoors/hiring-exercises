@@ -1,16 +1,16 @@
 <img src="https://res.cloudinary.com/bookoutdoors/image/upload/v1660164088/bookoutdoors_internal/bookoutdoors-logo.svg">
 
-#### Engineering Hiring @ [BookoutOutdoors](https://bookoutdoors.com)
+## Engineering Hiring @ [BookoutOutdoors](https://bookoutdoors.com)
 
 For the latest job openings visit [workable](https://apply.workable.com/bookoutdoors/) or follow us on [linkedIn](https://www.linkedin.com/company/bookoutdoors/)!
 
 ---
-#### A few thoughts on technical take-home challenges
+## A few thoughts on technical take-home challenges
 
 To be clear that these are **not** coding exercises. The goal of these exercises is to give you, the candidate, an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something similar to a spike or short duration sprint. These challenges are not graded or scored nor are they pass-fail. Rather these challenges are meant to serve a sample of your reductive thought processes as an engineer.
 
 ---
-#### Time frame and instructions
+## Time frame and instructions
 
 We want to be respectful of your time. We ask that you keep these challenges to *1-2 hours* at most. Remember our goal is to understand how you approach, problem solve and work through the challenge provided, not to build out a full featured application within an hour.
 
@@ -34,6 +34,6 @@ Here are some additional benefits to take-home challenges:
 
 ---
 
-#### Questions?
+## Questions?
 
 Shoot us an email to (developers@bookoutdoors.com)!

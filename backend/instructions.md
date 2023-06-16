@@ -1,18 +1,18 @@
-#### Backend Focused Challenge
+# Backend Focused Challenge
 
 This exercise is to implement the best possible solution to one of the exercises below in the time alloted. We're evaluating your ability to take a set of requirements and create a holistic solution that demonstrates craftsmanship, thoughtfulness and good architectural design. These challenges are **not** a test of how well you know Javascript/Node/Python/SQL etc., nor should you try to impress us with clever or obtuse solutions. If you want to impress us, build something that is beautiful, intuitive and easy to debug/test/extend!
 
 Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts. However if it's easy enough to deploy to github pages, vercel or any other [free] hosting platform, please do and include the deployment as part of your solution. *We want to learn from you too!*
 
-#### Challenge Part A - Database schema 
+## Challenge Part A - Database schema 
 
-##### User Story: As a developer I want to build a highly normalized database schema for storing data
+### User Story: As a developer I want to build a highly normalized database schema for storing data
 
 Create a schema for storing the compensation data provided in one of the [available data sets](/data). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **movies**, **credits**, and anything else that makes sense for the data given.
 
 You ***do not*** have to use the entire dataset to satisfy this challenge.
 
-##### Requirements
+### Requirements
 * Create a quick database schema diagram
   * Diagram can be programmatically generated or hand drawn
 * Upload the dataset to the matching schema
@@ -26,11 +26,11 @@ You ***do not*** have to use the entire dataset to satisfy this challenge.
 * Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
 * If you'd like to use a scripting language like Python or Ruby along with an ORM (we love [prisma.io](primsa.io)) to make this easier, thats fine with us!
 
-#### Challenge Part B - Basic CRUD functionality 
+## Challenge Part B - Basic CRUD functionality 
 
 The goal of this exercise is to design a read-only API (REST or GraphQL API) that returns one or more records from static set of compensation data.
 
-##### User Story: As a developer I want to build a micro service that performs the following functions
+### User Story: As a developer I want to build a micro service that performs the following functions
 
 * `GET` request - list all movies that return a minium of the following:
     * ID or UUID
