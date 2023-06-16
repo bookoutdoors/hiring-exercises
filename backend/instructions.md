@@ -8,7 +8,7 @@ Ideally your solution would have some way to run locally and test the results so
 
 ### User Story: As a developer I want to build a highly normalized database schema for storing data
 
-Create a schema for storing the compensation data provided in one of the [available data sets](/data). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **movies**, **credits**, and anything else that makes sense for the data given.
+Create a schema for storing the movie data provided in one of the [available data sets](/data). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **movies**, **credits**, and anything else that makes sense for the data given.
 
 You ***do not*** have to use the entire dataset to satisfy this challenge.
 
@@ -28,7 +28,7 @@ You ***do not*** have to use the entire dataset to satisfy this challenge.
 
 ## Challenge Part B - Basic CRUD functionality 
 
-The goal of this exercise is to design a read-only API (REST or GraphQL API) that returns one or more records from static set of compensation data.
+The goal of this exercise is to design a read-only API (REST or GraphQL API) that returns one or more records from static set of movie data.
 
 ### User Story: As a developer I want to build a micro service that performs the following functions
 
