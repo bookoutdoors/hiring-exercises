@@ -48,3 +48,11 @@ The goal of this exercise is to design a read-only API (REST or GraphQL API) tha
 
 * Don't worry about any web application concerns other than serializing JSON and returning via a the above requests.
 * The example above (`/movie?fields=title`...) is not set it in stone. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience.
+
+## BONUS Challenge Part C - Scalability
+
+Part C of this challenge is an optional bonus - half practical and half theoretical. Please consider the following prompt:
+
+*How would build a web application to support the scaling number of active monthly users from 100 to 1,000 to 10,000?*
+
+Think about an answer that accounts for all areas: frontend, backend and devops. Including but not limited to: technical infrastructure, hosting, load balancing, database setup, and performance monitoring and observation.
